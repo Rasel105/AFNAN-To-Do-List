@@ -12,9 +12,7 @@ A simple and interactive Todo List application built with **React, TypeScript, a
 
 ## Live Preview
 
-    ```sh https://afnan-to-do-list.vercel.app
-
-````
+    ```sh https://afnan-to-do-list.vercel.app ````
 
 ## Installation
 
@@ -23,7 +21,7 @@ A simple and interactive Todo List application built with **React, TypeScript, a
 ```sh
 git clone https://github.com/Rasel105/AFNAN-To-Do-List
 cd AFNAN-To-Do-List
-````
+```
 
 2. Install dependencies:
 
