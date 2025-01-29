@@ -56,11 +56,11 @@ A simple and interactive Todo List application built with **React, TypeScript, a
 
 ## Technologies Used
 
-- **React** (with TypeScript)
-- **Tailwind CSS** (for styling)
-- **React Icons** (for UI icons)
-- **UUID** (for unique task IDs)
-- **LocalStorage** (for task persistence)
+- **React**
+- **Tailwind CSS**
+- **React Icons**
+- **UUID**
+- **LocalStorage**
 
 ## How It Works
 
