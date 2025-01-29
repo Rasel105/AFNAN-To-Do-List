@@ -12,7 +12,7 @@ A simple and interactive Todo List application built with **React, TypeScript, a
 
 ## Live Preview
 
-    ```sh https://afnan-to-do-list.vercel.app ````
+https://afnan-to-do-list.vercel.app
 
 ## Installation
 
