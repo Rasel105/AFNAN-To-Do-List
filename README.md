@@ -10,14 +10,22 @@ A simple and interactive Todo List application built with **React, TypeScript, a
 - ✔️ **Mark as Complete**: Click on a task to toggle its completed state.
 - 💾 **Persistent Storage**: Tasks are stored in **localStorage**, so they remain after reloading the page.
 
+## Live Preview
+
+    ```sh
+
+https://afnan-to-do-list.vercel.app
+
+````
+
 ## Installation
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/Rasel105/AFNAN-To-Do-List
-   cd AFNAN-To-Do-List
-   ```
+```sh
+git clone https://github.com/Rasel105/AFNAN-To-Do-List
+cd AFNAN-To-Do-List
+````
 
 2. Install dependencies:
 
